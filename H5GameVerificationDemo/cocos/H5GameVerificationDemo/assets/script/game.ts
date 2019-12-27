@@ -45,7 +45,7 @@ export default class game extends cc.Component {
                 let params = {
                     gameId: 2,
                     channelId: 10001,
-                    platId: 0,
+                    platId: 5,
                     code: param['code'],
                     timestamps: Math.floor((new Date()).valueOf() / 1000).toString(),
                     success: function(result)

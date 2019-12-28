@@ -41,8 +41,8 @@
     },
     "_scale": {
       "__type__": "cc.Vec3",
-      "x": 0.52412109375,
-      "y": 0.52412109375,
+      "x": 0.586181640625,
+      "y": 0.586181640625,
       "z": 1
     },
     "_quat": {
@@ -495,7 +495,7 @@
     },
     "_enabled": true,
     "_useOriginalSize": false,
-    "_url": "http://hadoop-3:13141/gl-ms-user-auth/oauth/authorize?clientId=2&callback=http%3A%2F%2F192.168.0.144%3A7456%2Fbuild%2F",
+    "_url": "https://gw.lightlygame.com/gl-ms-user-auth/oauth/authorize?clientId=2&callback=http%3A%2F%2F58.87.85.64%2FH5GameVerificationDemo%2Findex.html",
     "webviewEvents": [],
     "_id": "1d7YW3ZCVEIoHjlF+7tJwM"
   },

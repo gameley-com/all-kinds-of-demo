@@ -32,7 +32,6 @@ export default class game extends cc.Component {
     }
 
     start () {
-        CDB.debugMode=true;
         console.log("game started...."+window.location.href)
         let that = this
         if (!global_data.Instance.isLogin()) {//用户还未登录
